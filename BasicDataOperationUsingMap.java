@@ -1,5 +1,3 @@
-// BasicDataOperationUsingMap.java
-// Generated GitHub‑ready version for Snail variant
 
 import java.util.*;
 import java.util.Map.Entry;
